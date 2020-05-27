@@ -1,5 +1,4 @@
 enabled-worlds:
   - world
   
-enabled-slots:
-  - *
+enabled-slots: []
